@@ -29,7 +29,9 @@
 ----> Folder Structure
 ```
 //legalize your trip - Hotels App
-- src
+-server
+-ci/cd
+-src
  ---assets
  ---services
  ---api
