@@ -3,7 +3,7 @@
 ## beertech-aula4
 
 
-# Initial Setup Project
+# Initial Project Setup
 
 - React;
 - ContextAPI;
