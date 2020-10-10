@@ -45,6 +45,17 @@
  -------------example.test.ts
  -------------example.ts
  -------------exampleView.tsx
+ -------------index.ts
+ 
+ -------Home
+  ---------HomeContainer.ts
+ ----------components
+ -------------example.style.ts
+ -------------example.d.ts
+ -------------example.test.ts
+ -------------example.ts
+ -------------exampleView.tsx
+ -------------index.ts
 ```
 
 # Design Patterns
