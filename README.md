@@ -45,8 +45,7 @@
  -------------example.test.ts
  -------------example.ts
  -------------exampleView.tsx
- -------------index.ts
- 
+ -------------index.ts 
  -------Home
   ---------HomeContainer.ts
  ----------components
