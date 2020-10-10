@@ -27,25 +27,25 @@
 - Hooks pre-commits for test coverage, Eslint and Typescript;
 
 ----> Folder Structure
-
+```
 //legalize your trip - Hotels App
--src
----assets
----services
----api
----shared
------components
------helpers
----pages/screens
--------Example
----------ExampleContainer.ts
-----------components
--------------example.style.ts
--------------example.d.ts
--------------example.test.ts
--------------example.ts
--------------exampleView.tsx
-
+- src
+ ---assets
+ ---services
+ ---api
+ ---shared
+ -----components
+ -----helpers
+ ---pages/screens
+ -------Example
+ ---------ExampleContainer.ts
+ ----------components
+ -------------example.style.ts
+ -------------example.d.ts
+ -------------example.test.ts
+ -------------example.ts
+ -------------exampleView.tsx
+```
 
 # Design Patterns
 
