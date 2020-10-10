@@ -70,9 +70,9 @@
 - Azure Devops;
 - Docker;
 
-# Integração com Backend
+# Integration
 
-- Microserviços
+- Microservices
 
 
 # Caching
