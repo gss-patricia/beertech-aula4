@@ -54,5 +54,14 @@
 
 
 # Devops
+
 - Azure Devops;
 - Docker;
+
+# Integração com Backend
+
+- Microserviços
+
+
+# Caching
+- Fastly / Akamai;
